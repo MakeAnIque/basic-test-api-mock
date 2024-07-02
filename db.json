@@ -1,4 +1,5 @@
-[
+{
+  "data": [
   {
     "id": 1,
     "img": "https://fastly.picsum.photos/id/1022/200/300.jpg?hmac=aNF88Nsdk9EmnsePe4aC2RixmOVmUOYF415sTFjWFBM",
@@ -32,3 +33,4 @@
     "date": "27"
   }
 ]
+}
